@@ -1,2 +1,1 @@
-# bloxorz-solver
-Explores different search algorithms to solve multiple varying levels of Bloxorz, a game that involves configuring a 2x1 rectangular prism into a 1x1 square hole.
+I (Pat Mutia) collaborated with Nicolas Jimenez-Lozano and Athena Kolli on this ME133b final project to create a Bloxorz solver and compare the benefits of each search algorithm.
